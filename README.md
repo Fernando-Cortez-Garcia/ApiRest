@@ -1,6 +1,7 @@
 # ApiRest
 Aprendiendo sobre las ApiRest con Laravel
-Practica de apiRest de articulos para que sea consumida
+Practica de apiRest de articulos para que sea consumida.
+
 Use laravel para crear el proyeto y practicar las rutas y las configuraciones necesarias para crear una ApiRest.
 
 ## Rutas
